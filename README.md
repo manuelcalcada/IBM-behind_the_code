@@ -1,4 +1,4 @@
-# IBM behind_the_code
+# IBM - Behind the Code Marathon
  
 ## Why did I create this repository?
 
